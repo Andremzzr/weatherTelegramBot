@@ -11,5 +11,8 @@ The Weather API that was used is from the website<br/>
 ``https://openweathermap.org/api``<br/>
 
 
-I'm trying to learn how to get the Telegram users messages for add more aplications in the Bot. I plan to start adding this in the next few weeks
+I'm trying to learn how to get the Telegram users messages for add more aplications in the Bot. I plan to start adding this in the next few weeks</br>
+
+
+Now, I'm using a while true loop to use the script like a alarm clock. I put the hour that I wake up, and receive a Good morning message with the climate status.
 

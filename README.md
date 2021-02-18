@@ -1,5 +1,5 @@
 # weatherTelegramBot<br/>
-![](blob:https://web.telegram.org/3b568aec-d98d-4692-9674-175c0d2af622)
+![](https://web.telegram.org/3b568aec-d98d-4692-9674-175c0d2af622)
 
 To make this project  used Weather Api and an Telegram api
 

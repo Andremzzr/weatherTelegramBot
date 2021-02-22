@@ -26,7 +26,7 @@ while (true) {
         
         $weather = new Weather();
         $weather_result = [];
-        $weather_result = $weather->getWeatherByCity('YOUR_CITY_NAME');
+        $weather_result = $weather->getWeatherByCity('YOUR_CITY_NAME','YOUR ID');
         Call::sendWeather($weather_result);
     
     }

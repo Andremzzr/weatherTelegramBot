@@ -36,6 +36,7 @@ class Weather
 
         foreach ($result['weather'] as $weather) {
             $weathers[] = $weather['main'];
+            $weathers[] = $weather['description'];
         }
 
         return [

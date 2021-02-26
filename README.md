@@ -1,5 +1,5 @@
 # weatherTelegramBot<br/>
-![](https://pbs.twimg.com/media/Eug6wQIWgAMEjJA?format=jpg&name=large)
+![](https://pbs.twimg.com/media/EvKJFzxWgAMHpIp?format=jpg&name=500x500)
 
 To make this project  used Weather Api and an Telegram api
 
